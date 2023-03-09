@@ -151,7 +151,7 @@ export const fileIcons: FileIcons = {
         'icns',
       ],
     },
-    { name: 'javascript', fileExtensions: ['esx', 'mjs'] },
+    { name: 'javascript', fileExtensions: ['esx', 'mjs','akhub'] },
     { name: 'react', fileExtensions: ['jsx'] },
     { name: 'react_ts', fileExtensions: ['tsx'] },
     {
@@ -237,6 +237,7 @@ export const fileIcons: FileIcons = {
         'sln.dotsettings',
         'sln.dotsettings.user',
         'cfg',
+        'ak'
       ],
       fileNames: [
         '.jshintignore',
