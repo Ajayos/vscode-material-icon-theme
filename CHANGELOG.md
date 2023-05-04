@@ -3,6 +3,37 @@
  All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
  
+#### [v4.27.0](https://github.com/PKief/vscode-material-icon-theme/compare/v4.26.0...v4.27.0) 
+
+> April 30, 2023 
+
+- Add mermaid file icon [`#1957`](https://github.com/PKief/vscode-material-icon-theme/pull/1957)
+- Update package structure of npm module [`#1958`](https://github.com/PKief/vscode-material-icon-theme/pull/1958)
+- feat: support CommonJS file for semantic release [`#1954`](https://github.com/PKief/vscode-material-icon-theme/pull/1954)
+- Add qwik icon pack [`#1949`](https://github.com/PKief/vscode-material-icon-theme/pull/1949)
+- feat: support TSConfig icon for paths file [`#1953`](https://github.com/PKief/vscode-material-icon-theme/pull/1953)
+- feat: add ifanr cloud icon [`#1934`](https://github.com/PKief/vscode-material-icon-theme/pull/1934)
+- feat: enhance eslint flat config support [`#1935`](https://github.com/PKief/vscode-material-icon-theme/pull/1935)
+- Additional docker compose filenames [`#1933`](https://github.com/PKief/vscode-material-icon-theme/pull/1933)
+ 
+#### [v4.26.0](https://github.com/PKief/vscode-material-icon-theme/compare/v4.25.0...v4.26.0) 
+
+> April 8, 2023 
+
+- Remove sponsor logo [`#1929`](https://github.com/PKief/vscode-material-icon-theme/pull/1929)
+- feat: add mercurial icon [`#1898`](https://github.com/PKief/vscode-material-icon-theme/pull/1898)
+- feat: Add "Change File Color" functionality [`#1916`](https://github.com/PKief/vscode-material-icon-theme/pull/1916)
+- feat: add C/C++ resource icon [`#1897`](https://github.com/PKief/vscode-material-icon-theme/pull/1897)
+- feat: add deno icon [`#1896`](https://github.com/PKief/vscode-material-icon-theme/pull/1896)
+- Add typst file icon [`#1917`](https://github.com/PKief/vscode-material-icon-theme/pull/1917)
+- feat: add Plastic SCM icon [`#1877`](https://github.com/PKief/vscode-material-icon-theme/pull/1877)
+- Update folderIcons.ts [`#1914`](https://github.com/PKief/vscode-material-icon-theme/pull/1914)
+- add mctemplate and mcproject file extensions [`#1913`](https://github.com/PKief/vscode-material-icon-theme/pull/1913)
+- Godot optimizations, folder [`#1884`](https://github.com/PKief/vscode-material-icon-theme/pull/1884)
+- Update netlify icons [`#1908`](https://github.com/PKief/vscode-material-icon-theme/pull/1908)
+- Add all possible stryker config filenames [`#1907`](https://github.com/PKief/vscode-material-icon-theme/pull/1907)
+- Add support for all Serverless framework config extensions [`#1880`](https://github.com/PKief/vscode-material-icon-theme/pull/1880)
+ 
 #### [v4.25.0](https://github.com/PKief/vscode-material-icon-theme/compare/v4.24.0...v4.25.0) 
 
 > March 15, 2023 
